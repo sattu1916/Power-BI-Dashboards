@@ -2,7 +2,7 @@
 
 This repository contains my Power BI project **Super Store Sales Dashboard**, which provides interactive visualizations and insights from the Super Store Sales dataset.  
 
-![Dashboard Preview](Super_Sales_Dashboard/assets/super_sales.jpeg)  
+![Dashboard Preview](Super_Sales_Dashboard/Assets/Dashboard Image.png)  
 
 ## 📊 Features  
 - Total Sales and Profit Analysis  
@@ -13,7 +13,7 @@ This repository contains my Power BI project **Super Store Sales Dashboard**, wh
 ## 📂 Files Included  
 - `SuperStore_Sales_Dataset.csv`: The dataset used in this project.  
 - `SuperStore_Sales_Dashboard.pbix`: Power BI dashboard file.  
-- `assets/super_sales_dashboard.jpeg`: Screenshot of the dashboard.  
+- `Super_Sales_Dashboard/Assets/Dashboard Image.png`: Screenshot of the dashboard.  
 
 ## 🚀 Getting Started  
 To explore the dashboard:  
