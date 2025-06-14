@@ -35,4 +35,4 @@ This project is an **interactive HR Analytics Dashboard** built in **Power BI**,
 
 ---
 
-
+📫 Contact: sattu1911y@gmail.com | LinkedIn : www.linkedin.com/in/satyendra-yadav-7981b21b2
